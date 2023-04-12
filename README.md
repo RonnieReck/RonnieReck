@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RonnieReck
-- 👀 I’m interested in UX/UI design, cooking, gardening, biking trails and road tripping across the USA
-- 🌱 I’m currently learning Bootstrap, CSS, JS and all I can about UX/UI
+- 👀 I’m interested in UX/UI design and finding creative ways to implement new technologies into my designs
+- 🌱 I’m currently a UX/UI Teaching Assistant
 - 💞️ I’m looking to collaborate on web design and app design projects
 - 📫 How to reach me stephany.reck@gmail.com
 
