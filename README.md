@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RonnieReck
-- 👀 I’m interested in UX/UI design and finding creative ways to implement new technologies into my designs
-- 🌱 I’m currently a UX/UI Teaching Assistant
+- 👋 Hi, I’m @RonnieReck. 
+- 👀 I’m fascinated by UX/UI design and finding creative ways to implement new technologies into my designs
+- 🌱 I’m currently a UX/UI Teaching Assistant and freelance designer
 - 💞️ I’m looking to collaborate on web design and app design projects
 - 📫 How to reach me stephany.reck@gmail.com
 
